@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.App {
+  width: min(90%, 768px);
+  margin-inline: auto;
+  height: 100vh;
+  margin-top: 5rem;
+  text-align: center;
+}
